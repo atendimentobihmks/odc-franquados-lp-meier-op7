@@ -49,8 +49,8 @@ export const UNITS_DATA: Record<string, UnitData> = {
   meier: {
     id: 'meier',
     name: 'Méier',
-    phone: '(21) 97004-4449',
-    whatsapp: '5521970044449',
+    phone: '+55 21 97666-3032',
+    whatsapp: '5521976663032',
     whatsappMessage: 'Olá! Gostaria de agendar uma consulta de avaliação na OdontoCompany Méier.',
     instagramUrl: 'https://www.instagram.com/odontocompanymeier/',
     facebookUrl: 'https://www.facebook.com/people/Odontocompany-M%C3%A9ier/61565639730593/',

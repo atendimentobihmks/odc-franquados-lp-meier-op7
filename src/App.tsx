@@ -301,7 +301,7 @@ export default function App() {
                           required
                           value={phone}
                           onChange={(e) => setPhone(e.target.value)}
-                          placeholder="Ex: 11999999999"
+                          placeholder="Ex: 21999999999"
                           className="w-full pl-10 pr-4 py-3 rounded-xl border border-white/15 focus:outline-none focus:ring-2 focus:ring-[#39b54a] focus:border-transparent text-sm bg-white/5 text-white placeholder-slate-400 focus:bg-white/10 transition-all"
                         />
                       </div>
@@ -912,7 +912,7 @@ export default function App() {
                                 <input
                                   type="tel"
                                   required
-                                  placeholder="(11) 99999-9999"
+                                  placeholder="(21) 99999-9999"
                                   value={footerPhone}
                                   onChange={(e) => setFooterPhone(e.target.value)}
                                   className="w-full pl-10 pr-4 py-3 rounded-xl border border-white/15 focus:outline-none focus:ring-2 focus:ring-[#39b54a] focus:border-transparent text-sm bg-white/5 text-white placeholder-slate-400 focus:bg-white/10 transition-all"
